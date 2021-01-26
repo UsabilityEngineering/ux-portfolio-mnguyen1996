@@ -1,5 +1,4 @@
-# UX Portfolio
-
+# Minh's usability portfolio
 
 ## UX Team Project
 
