@@ -7,4 +7,6 @@ For instance, this morning I noticed that my car is very low on gas. I had about
 head out to a local gas station. Luckily Costco Gasoline is very cheap compared to many other gas stations, and it is only about 2 miles away
 from home. As I parked my car and took the gas pump to fill my gas tank, I noticed something off. 
 
+![costcogas](/costco.jpeg)
+
 
