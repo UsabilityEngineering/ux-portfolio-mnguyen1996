@@ -9,4 +9,4 @@ from home. As I parked my car and took the gas pump to fill my gas tank, I notic
 
 ![costco](costco.jpg)
 
-
+Suprisingly, Costco Gasoline now accepts Apple Pay or most debt or credit cards that comes with NFC chip. 
