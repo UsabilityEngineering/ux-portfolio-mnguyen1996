@@ -9,4 +9,6 @@ from home. As I parked my car and took the gas pump to fill my gas tank, I notic
 
 ![costco](costco.jpg)
 
-Suprisingly, Costco Gasoline now accepts Apple Pay or most debt or credit cards that comes with NFC chip. 
+I noticed that there is a very small panel that includes a symbol that represents NFC. 
+
+Suprisingly, Costco Gasoline now accepts Apple Pay or most debt or credit cards that comes with NFC chip. With this feature being fully functional, I believe it fulfills multiple goals. 
