@@ -1,4 +1,4 @@
-# UX Journal 1 - Gas eXperience
+# UX Journal 1 - Gas Station payment eXperience
 
 ## Minh Nguyen, 03/07/2021
 
