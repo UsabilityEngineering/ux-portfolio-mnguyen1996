@@ -6,7 +6,7 @@
 **efficient**
 **satisfying**
 
-As I made lunch on a typical weekday, I noticed that I can document my experience with my air fryer. This air fryer has been my most used appliance for the past year, and I've been loving it so far. At first glance you can see litted on/off switch that is a touch button right in the center. You can also see a Wi-Fi symbol on the left side, which means that this air fryer can be connected to the internet router which can be control from phones and computers. As I turn on the air fryer, you can see that there are a lot of more touch buttons that litted up such as presets and also the temperature and the cook time in digital number format.
+As I made lunch on a typical weekday, I noticed that I can document my experience with my air fryer. This air fryer has been my most used appliance for the past year, and I've been loving it so far. At first glance you can see litted on/off switch that is a touch button right in the center. You can also see a Wi-Fi symbol on the left side, which means that this air fryer can be connected to the internet router which can be control from phones and computers. As I turn on the air fryer, you can see that there are a lot of more touch buttons that litted up such as presets and also the temperature and the cook time in digital number format. This would be a good example of **efficient**, as some consumers would like to cook their food, but don't know the settings to do so. 
 
 <img src="idle.jpg" alt="idle" width="400"/> <img src="on.jpg" alt="on" width="400"/>
 
