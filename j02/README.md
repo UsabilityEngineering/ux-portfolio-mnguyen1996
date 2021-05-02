@@ -24,3 +24,4 @@ Also, if you open and take off the basket from the air fryer, it will indicate t
 
 <img src="appmenu.PNG" alt="appmenu" width="400"/> <img src="appset.PNG" alt="appset" width="400"/>
 
+Here is the app layout if you were to connect the air fryer to the internet so that you can remotely control and set your air fryer wirelessly. 
