@@ -18,5 +18,6 @@ air fryer can be connected to the internet router which can be control from phon
 
 As I turn on the air fryer, you can see that there are a lot of more buttons that litted up such as presets and also the temperature and the cook time in digital number format.
 
+<img src="open.jpg" alt="open" width="400"/>
 
-
+Also, if you open and take off the basket from the air fryer, it will indicate that you can't start the air fryer as a safety feature. 
