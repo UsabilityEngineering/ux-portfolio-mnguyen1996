@@ -22,5 +22,5 @@ As I turn on the air fryer, you can see that there are a lot of more buttons tha
 
 Also, if you open and take off the basket from the air fryer, it will indicate that you can't start the air fryer as a safety feature. 
 
-<img src="appmenu.png" alt="appmenu" width="400"/> <img src="appset.png" alt="appset" width="400"/>
+<img src="appmenu.PNG" alt="appmenu" width="400"/> <img src="appset.PNG" alt="appset" width="400"/>
 
