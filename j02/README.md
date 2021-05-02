@@ -6,6 +6,6 @@
 As I made lunch on a typical weekday, I've observed carefully on small details such as its functionality of the appliance.
 
 
-![on](on.jpg)
+![idle](idle.jpg)
 
 
