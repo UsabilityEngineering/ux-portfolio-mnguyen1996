@@ -13,7 +13,7 @@ As I made lunch on a typical weekday, I noticed that I can document my experienc
 <img src="open.jpg" alt="open" width="400"/>
 
 
-Also, if you open and take off the basket from the air fryer, it will indicate that you can't start the air fryer as a safety feature. 
+Also, if you open and take off the basket from the air fryer while it is on, it will indicate by replacing the number values with dashes for temperature and cook time. This is a safety feature that the company implemented.
 
 <img src="appmenu.PNG" alt="appmenu" width="400"/> <img src="appset.PNG" alt="appset" width="400"/>
 
