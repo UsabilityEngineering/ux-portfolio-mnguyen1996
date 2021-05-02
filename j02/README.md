@@ -6,7 +6,7 @@
 As I made lunch on a typical weekday, I've observed carefully on small details such as its functionality of the appliance; in this case an air fryer.
 
 
-![idle](idle.jpg)
+<img src="idle.jpg" alt="idle" width="200"/>
 
 At first glance you can see litted on/off switch that is a touch button right in the center. You can also see a Wi-Fi symbol on the left side, which means that this
 air fryer can be connected to the internet router which can be control from phones and computers.
