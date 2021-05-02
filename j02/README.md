@@ -1,10 +1,6 @@
 # UX Journal 2 - 
 
 ## Minh Nguyen, 04/28/2021
-**satisfying**
-**useful**
-**efficient**
-**satisfying**
 
 As I made lunch on a typical weekday, I noticed that I can document my experience with my air fryer. This air fryer has been my most used appliance for the past year, and I've been loving it so far. At first glance you can see litted on/off switch that is a touch button right in the center. You can also see a Wi-Fi symbol on the left side, which means that this air fryer can be connected to the internet router which can be control from phones and computers. As I turn on the air fryer, you can see that there are a lot of more touch buttons that litted up such as presets and also the temperature and the cook time in digital number format. This would be a good example of **efficient** and **usefulness**, as some consumers would like to cook their food, but don't know the settings to do so. It is also to mentioned that even most people are more familiar with settings on conventional ovens and microwaves, and air fryer settings are usually different.
 
