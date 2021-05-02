@@ -6,7 +6,7 @@
 **efficient**
 **satisfying**
 
-As I made lunch on a typical weekday, I noticed that I can document my experience with my air fryer. This air fryer has been my most used appliance for the last year, and I've been loving it so far. 
+As I made lunch on a typical weekday, I noticed that I can document my experience with my air fryer. This air fryer has been my most used appliance for the past year, and I've been loving it so far. 
 
 
 <img src="idle.jpg" alt="idle" width="400"/>
