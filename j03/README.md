@@ -22,5 +22,5 @@ There is also some additional settings that can be adjusted in order to optimize
 
 
 
-
+##
 My overall experience was pleasant. I found out that the ability to use this for any other devices that supports HDMI connection as display is **useful**. For example, I can also use this to capture video input from different devices such as cameras. Connecting to DSLR or mirrorless camera to my PC to use for recording videos, taking picures, or even use it as a webcam. I also find that it is **satisfying** and **memorable** to use the very user friendly simple application that is provided with the capture card. Everything is perfectly laid out on the application with straight forward settings.
