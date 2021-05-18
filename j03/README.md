@@ -8,7 +8,7 @@ For the last journal, I would like to document about my video capture card that 
 
 I will now use the application that was provided along with the capture card. Since the initial installation of the software also comes with the driver, it doesn't need any other additional setup in order to get it to work. At first it will show that there's no input connected to the capture card as shown.
 
-<img src="noinput.jpg" alt="noinput" width="400"/> 
+<img src="noinput.jpg" alt="noinput" width="800"/> 
 
 
 
