@@ -10,7 +10,7 @@ I will now use the application that was provided along with the capture card. Si
 
 <img src="noinput.jpg" alt="noinput" width="800"/> 
 
-But once every connection has been made, the application will flawlessly show the signal of the Nintendo Switch. 
+But once all connection has been made, the application will flawlessly show the signal of the Nintendo Switch. 
 
 <img src="yesinput.jpg" alt="yesinput" width="800"/> 
 
