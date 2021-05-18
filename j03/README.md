@@ -10,9 +10,14 @@ I will now use the application that was provided along with the capture card. Si
 
 <img src="noinput.jpg" alt="noinput" width="800"/> 
 
-But once every connection has been made, the application will show the signal of the Nintendo Switch.
+But once every connection has been made, the application will flawlessly show the signal of the Nintendo Switch. 
 
 <img src="yesinput.jpg" alt="yesinput" width="800"/> 
+
+Now from here, we can adjust the output setting on the right side such as the game audio and other audio settings for the output. At the bottom, there is also an option to record the output that is being captured from the Nintendo Switch. 
+
+<img src="settings.jpg" alt="settings" width="800"/> 
+
 
 
 
