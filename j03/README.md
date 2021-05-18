@@ -1,4 +1,4 @@
-# UX Journal 3- 
+# UX Journal 3
 
 ## Minh Nguyen, 05/17/2021
 
