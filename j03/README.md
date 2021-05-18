@@ -14,7 +14,7 @@ But once all connection has been made, the application will flawlessly show the 
 
 <img src="yesinput.jpg" alt="yesinput" width="800"/> 
 
-Now from here, we can adjust the output setting on the right side such as the game audio and other audio settings for the output. At the bottom, there is also an option to record the output that is being captured from the Nintendo Switch. 
+Now from here as shown above, we can adjust the output setting on the right side such as the game audio and other audio settings for the output. At the bottom of this screen, there is also an option to record the output that is being captured from the Nintendo Switch. 
 
 <img src="settings.jpg" alt="settings" width="800"/> 
 
