@@ -2,7 +2,7 @@
 
 ## Minh Nguyen, 05/17/2021
 
-For the last journal, I would like to document about my video capture card that I recently got for multiple devices such as my Nintendo Switch. I use this to output my device into my PC so that I don't have to switch my output on my display every time I want to use it. The connection of the designs consists of the USB connection to the PC which also provides power to the capture card itself, and the HDMI port which connects to the device that I want to output into my PC. In this case as shown below, the HDMI is connected to my Nintendo Switch. 
+For the last journal, I would like to document about my video capture card that I recently got for multiple devices that I own, such as my Nintendo Switch. I use this to output my device into my PC so that I don't have to switch my output on my display every time I want to use it. The connection of the designs consists of the USB connection to the PC which also provides power to the capture card itself, and the HDMI port which connects to the device that I want to output into my PC. In this case as shown below, the HDMI is connected to my Nintendo Switch. 
 
 <img src="justcard.jpg" alt="justcard" width="400"/> <img src="switchpluscard.jpg" alt="switchpluscard" width="400"/>
 
