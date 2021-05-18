@@ -2,11 +2,9 @@
 
 ## Minh Nguyen, 05/17/2021
 
-I would like to write about my video capture card that I use for many devices such as my Nintendo Switch. I use this to output my device into my PC so that I don't have to switch my output on my display every time I want to use it. 
+I would like to write about my video capture card that I use for multiple devices such as my Nintendo Switch. I use this to output my device into my PC so that I don't have to switch my output on my display every time I want to use it. 
 
-
-
-<img src="idle.jpg" alt="idle" width="400"/> <img src="on.jpg" alt="on" width="400"/>
+<img src="justcard.jpg" alt="justcard" width="400"/> <img src="switchpluscard.jpg" alt="switchpluscard" width="400"/>
 
 <img src="open.jpg" alt="open" width="400"/>
 
