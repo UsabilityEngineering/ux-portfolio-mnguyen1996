@@ -1,7 +1,7 @@
 # Minh's usability portfolio
 
 ## UX Team Project
-
+### [ChicoFish](https://github.com/UsabilityEngineering/ChicoFish)
 
 ## UX Journal
 
