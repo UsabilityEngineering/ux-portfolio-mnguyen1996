@@ -18,7 +18,7 @@ Now from here, we can adjust the output setting on the right side such as the ga
 
 <img src="settings.jpg" alt="settings" width="800"/> 
 
-There is also some additional settings that can be adjusted in order to optimize for best performance. Performance may be varied depending on the CPU and the GPU. Ideally we want zero latency of the output signal, so it can be adjusted until the goal has been reached.
+There is also some additional settings that can be adjusted in order to optimize for best performance. Performance may be varied depending on the CPU and the GPU. Ideally we want zero latency of the output signal, so it can be adjusted until the goal has been reached such as adjusting the Quality meter as shown above.
 
 
 
