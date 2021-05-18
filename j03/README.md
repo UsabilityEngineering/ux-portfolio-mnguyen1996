@@ -22,4 +22,5 @@ There is also some additional settings that can be adjusted in order to optimize
 
 
 
-Here is the app layout if you were to connect the air fryer to the internet so that you can remotely control and set your air fryer wirelessly. I find that this app feature is such a **satisfying** and **useful** experience for most users. Most consumers would place their air fryer in their kitchen, and when they start cooking they go do something else while they wait. Instead of coming back to the air fryer to check on the progress of cooking, they can simply just use the provided app and track the timer or even modify the timer and temperature if they have to. You can also browse through preloaded recipes that is within the app to give you an idea of what to cook in the air fryer.
+
+Overall, I found that such a **satisfying** and **useful** experience for most users. Most consumers would place their air fryer in their kitchen, and when they start cooking they go do something else while they wait. Instead of coming back to the air fryer to check on the progress of cooking, they can simply just use the provided app and track the timer or even modify the timer and temperature if they have to. You can also browse through preloaded recipes that is within the app to give you an idea of what to cook in the air fryer.
